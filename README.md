@@ -18,7 +18,7 @@
 ## Frameworks & librerias 
   <img src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react" />  <img src = "https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt = "bootstrap5" />  <img src = "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt = "tailwind" />
   
-  ## Herramientas
+  ## 🛠️ Herramientas
   <img src = "https://img.shields.io/badge/figma-7434a4?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />  <img src = "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt = "git" />  <img src = "https://img.shields.io/badge/adobe%20photoshop-001E36.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=" alt = "photoshop" />  <img src = "https://img.shields.io/badge/adobe%20illustrator-3c240c.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=f8a829" alt = "illustrator" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
