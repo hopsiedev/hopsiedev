@@ -1,4 +1,4 @@
-# ¡Hola! mi nombre es Danilson Santana 👋
+# ¡Hola! Robot👋
 
 ## 💫 Sobre mi:
 Un apasionado dominicano al diseño gráfico con un amor profundo por el mundo del software. Mi viaje en el diseño comenzó con la fascinación por la capacidad de las imágenes y la creatividad para transmitir ideas poderosas.<br><br>Con una paleta de habilidades que abarca desde la creación visual hasta la implementación técnica, he encontrado mi nicho en el emocionante campo del diseño web. Mi experiencia se centra en la armonización de la estética visual con la funcionalidad efectiva, y me enorgullece crear experiencias digitales que cautivan y deleitan a los usuarios.<br><br>HTML y Javascript son mis lenguajes de elección, y considero que son herramientas fundamentales en la caja de herramientas de cualquier diseñador web. La capacidad de dar vida a conceptos creativos a través del código me apasiona, y siempre estoy buscando formas innovadoras de mejorar la interacción usuario-interfaz.
