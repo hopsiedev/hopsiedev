@@ -1,24 +1,53 @@
-# ¡Hey! Robot👋
-
-## 💫 Sobre mi:
-Un apasionado dominicano al diseño gráfico con un amor profundo por el mundo del software. Mi viaje en el diseño comenzó con la fascinación por la capacidad de las imágenes y la creatividad para transmitir ideas poderosas.<br><br>Con una paleta de habilidades que abarca desde la creación visual hasta la implementación técnica, he encontrado mi nicho en el emocionante campo del diseño web. Mi experiencia se centra en la armonización de la estética visual con la funcionalidad efectiva, y me enorgullece crear experiencias digitales que cautivan y deleitan a los usuarios.<br><br>HTML y Javascript son mis lenguajes de elección, y considero que son herramientas fundamentales en la caja de herramientas de cualquier diseñador web. La capacidad de dar vida a conceptos creativos a través del código me apasiona, y siempre estoy buscando formas innovadoras de mejorar la interacción usuario-interfaz.
+![hopsie](https://github.com/user-attachments/assets/e584af1b-7eac-4b74-90e8-16c43812bf5b)
 
 
-## 🌐 Redes Sociales:
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=whiteh) ![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
 
-## 📚 Lenguajes de programación 
-  
-  <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />  <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />  <img src = "https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
-  
-  ## 📖 Actualmente aprendiendo
-  <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "ts" /> 
-    
-  
-## Frameworks & librerias 
-  <img src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react" />  <img src = "https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt = "bootstrap5" />  <img src = "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt = "tailwind" />
-  
-  ## 🛠️ Herramientas
-  <img src = "https://img.shields.io/badge/figma-7434a4?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />  <img src = "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt = "git" />  <img src = "https://img.shields.io/badge/adobe%20photoshop-001E36.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=" alt = "photoshop" />  <img src = "https://img.shields.io/badge/adobe%20illustrator-3c240c.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=f8a829" alt = "illustrator" />
+<h2 align="left">Hi there, I'm <a href="hopsiedev.xyz" target="_blank" rel="noopener noreferrer">HOPSiEdev</a>
+ <a href="hopsiedev.xyz"></a></h2>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🌐 I'm a Front-end Web Developer
+- 💻 I’m currently learning React
+- 📸 I love photography!
+
+
+### Tech Stack
+#### Front-end
+<span>
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/webflow-%23146EF5.svg?style=for-the-badge&logo=webflow&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
+ <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" /> 
+
+</span>
+<br>
+
+#### Back-end
+<span>
+ <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" /> 
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" /> 
+ <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /> 
+</span>
+<br>
+
+#### Other
+<span>
+ <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" /> 
+
+</span>
+<br/>
+
+#### Stats
+ ![HOPSiE's GitHub stats](https://github-readme-stats.vercel.app/api?username=hopsiedev&show_icons=true&theme=radical)
+
+
