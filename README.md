@@ -1,6 +1,3 @@
-![hopsie](https://github.com/user-attachments/assets/e584af1b-7eac-4b74-90e8-16c43812bf5b)
-
-
 
 <h2 align="left">Hi there, I'm <a href="hopsiedev.xyz" target="_blank" rel="noopener noreferrer">HOPSiEdev</a>
  <a href="hopsiedev.xyz"></a></h2>
